@@ -14,3 +14,9 @@ cp
 mv
 rm
 git
+
+
+create a file in home directory called .profile
+
+set up your alias there (you need to navigate over there)
+alias zx="cd ~; cd code; cd week10;"

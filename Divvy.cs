@@ -38,7 +38,6 @@ namespace csharp
 
 //	import json
 //	from urllib.request import urlopen
-//	import math
 //
 //	webservice_url = "http://www.divvybikes.com/stations/json"
 //	data = urlopen(webservice_url).read().decode("utf8")
